@@ -20,7 +20,7 @@ if email == "dabroi84@hotmail.com":
 
 # O \n dentro do print funciona como o <br/> no HTML (pula mais uma linha)
 print("\n------------------------------------")
-
+     dhsdsdhshshtge
 print("Adicionando os novos arquivos...\n")
 os.system("git add *")
 
